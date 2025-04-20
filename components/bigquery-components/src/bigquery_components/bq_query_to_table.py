@@ -11,7 +11,8 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-#testing ci-cd
+#testing release ci-cd
+
 
 
 from kfp.v2.dsl import component
